@@ -1,0 +1,6 @@
+{
+  "name": "পুলিশ ম্যাস ম্যানেজমেন্ট",
+  "description": "পুলিশ ম্যাস ম্যানেজমেন্ট সিস্টেম - মিল হিসাব, বাজার খরচ ও সদস্য ব্যালেন্স ড্যাশবোর্ড",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
